@@ -1,0 +1,30 @@
+Hello and thank you for downloading desktop music box! Here's some fun stuff you can do that is not intuitive to figure out:
+
+Features:
+
+- Drag and drop an audio file into the music box window, and it will play it on loop!
+
+Keybinds:
+
+- LCTRL + T toggles the remaining time display
+
+- LCTRL + W toggles the window always being on top
+
+- LCTRL + X toggles the window transparency
+
+- LCTRL + R makes the aspect ratio of the window normal again.
+        The width stays the same; the height is changed to match the native aspect ratio.
+
+Cheats:
+
+- LCTRL + U expands the difficulty upper bound to 100 (why would you do this to yourself)
+    - Holding SHIFT while changing the difficulty changes it by 5 instead of 1
+    - You can also use the scroll wheel to change difficulty instead
+
+- LCTRL + A toggles auto-wind (ugh. cheater!!!)
+
+- LCTRL + 1/2/3 changes the windup speed. 1 is normal, 2 is 2.0x, and 3 is 3.0x
+
+more to come maybe !!
+
+- fdfdjfk3 (4/11/2024)

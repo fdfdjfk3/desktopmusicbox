@@ -1,0 +1,8 @@
+build/
+linux/
+win/
+macos/
+makebuilds.sh
+ResourceHackerIconScript
+*.exe
+*.pdb
